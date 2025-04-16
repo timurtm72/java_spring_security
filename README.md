@@ -7,7 +7,7 @@
 # JavaSpringSecurity
 
 ## Описание проекта
-JavaSpringSecurity - это проект на базе Spring Boot, который представляет собой систему управления пользователями с полноценной аутентификацией и авторизацией. Система обеспечивает безопасное хранение данных пользователей, включая личную информацию и учетные записи.
+java_spring_security - это проект на базе Spring Boot, который представляет собой систему управления пользователями с полноценной аутентификацией и авторизацией. Система обеспечивает безопасное хранение данных пользователей, включая личную информацию и учетные записи.
 
 ## Функциональные возможности
 - Управление учетными записями пользователей
@@ -36,8 +36,8 @@ JavaSpringSecurity - это проект на базе Spring Boot, которы
 
 ## Запуск проекта
 ```bash
-git clone https://github.com/your-username/JavaSpringSecurity.git
-cd JavaSpringSecurity
+git clone https://github.com/your-username/java_spring_security.git
+cd java_spring_security
 mvn clean install
 mvn spring-boot:run
 ```
