@@ -47,5 +47,5 @@ mvn spring-boot:run
 
 ## Автор
 - Имя и Фамилия
-- Email [timur.sultanov1972@gmail.com]
+- Email timur.sultanov1972@gmail.com
 - GitHub: [Тимур](https://github.com/timurtm72/)
